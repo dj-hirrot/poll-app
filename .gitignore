@@ -1,2 +1,2 @@
 db.sqlite*
-poll_app/__pycache__/*
+*/__pycache__/*
